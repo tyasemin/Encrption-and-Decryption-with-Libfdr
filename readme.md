@@ -1,6 +1,6 @@
 # Encrption and Decryption with Libfdr
 
--JRB (Red black trees) used for ecrption and decrption operations.
+-JRB (Red black trees) used for encrption and decrption operations.
 <br>
 -Code firstly reads .kilit file after that puts words and the number indicating how many words there are into the tree.
 <br>
